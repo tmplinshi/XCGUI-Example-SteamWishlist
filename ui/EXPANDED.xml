@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--炫彩界面库-列表框元素项模板文件-->
+<head>
+	<bindJsFile value="" />
+</head>
+<xc_template_listBox>
+	<layoutEleUI bkInfoM="{sizeT:500,0;99:1.9.9;5:2(15)20(1)21(3)26(0)22(-10662851)23(255);5:2(13)3(0,10,0,0)20(1)21(3)26(0)22(-14277856)23(255);5:2(14)3(10,0,0,0)20(1)21(3)26(0)22(-14277856)23(255);98:16(0,1,2);}" cursor="IDC_ARROW" drawBorder="false" enableCanvas="false" heightT="181" layout.alignH="left" layout.alignV="top" layout.height="fill" layout.horizon="true" layout.padding="16,16,26,26" layout.space="19" layout.width="auto" mouseThrough="true" showT="true" widthT="940" expandT="true">
+		<layoutEleUI height="100" layout.height="136" layout.width="292" left="217" showT="true" top="61" width="100" expandT="true">
+			<buttonUI cursor="IDC_HAND" drawBorder="false" drawFocus="false" enableFocus="false" height="25" itemID="200" layout.height="fill" layout.width="fill" left="187" showT="true" top="93" transparent="true" width="60" expandT="true" />
+			<buttonUI bkInfoM="{99:1.9.9;3:2(15)4({binding field=capsule});98:16(0)32(0)64(0);}" cursor="IDC_HAND" drawBorder="false" drawFocus="false" enableFocus="false" height="25" itemID="100" layout.height="fill" layout.width="fill" left="167" showT="true" top="73" transparent="true" width="60" expandT="true" />
+		</layoutEleUI>
+		<layoutEleUI height="100" layout.height="fill" layout.horizon="false" layout.width=":1" left="801" nameT="content" showT="true" top="71" width="100" expandT="true">
+			<layoutEleUI height="100" layout.height="46" layout.padding="0,0,0,15" layout.width="fill" left="438" nameT="title" showT="true" top="19" width="100" expandT="true">
+				<buttonUI content="{binding field=title}" cursor="IDC_HAND" font="@ID_FONT_2" height="25" itemID="66" layout.height="fill" layout.width="auto" left="256" offsetX="-5" showT="true" textAlign="DT_LEFT,DT_VCENTER,DT_SINGLELINE" textColor="#FFFFFFFF" top="14" transparent="true" width="60" expandT="true" />
+			</layoutEleUI>
+			<layoutEleUI height="100" layout.height="42" layout.width="fill" left="368" nameT="mid_container" showT="true" top="82" width="100" expandT="true">
+				<layoutEleUI cursor="IDC_ARROW" height="100" layout.height="42" layout.horizon="false" layout.padding="0,0,0,10" layout.width=":1" left="87" nameT="stats" showT="true" top="20" width="100" expandT="false">
+					<layoutEleUI height="100" layout.height="16" layout.width="fill" left="60" showT="true" top="19" width="100" expandT="true">
+						<shapeText content="OVERALL REVIEWS:" font="@ID_FONT_6" height="20" layout.height="auto" layout.width="140" left="77" showT="true" textColor="@ID_COLOR_3" top="11" width="119" expandT="true" />
+						<shapeText content="{binding field=review_desc}" font="@ID_FONT_6" height="20" itemID="1" layout.height="auto" layout.width=":1" left="97" nameT="value game_review_summary positive" showT="true" textColor="@ID_COLOR_3" top="31" width="119" expandT="true" />
+					</layoutEleUI>
+					<layoutEleUI layout.height="16" layout.width="fill" left="80" showT="true" top="39" width="100" expandT="true">
+						<shapeText content="RELEASE DATE:" font="@ID_FONT_6" height="20" layout.height="fill" layout.width="140" left="117" showT="true" textColor="@ID_COLOR_3" top="51" width="119" expandT="true" />
+						<shapeText content="{binding field=release_date}" font="@ID_FONT_6" layout.height="fill" layout.width=":1" left="137" nameT="value release_date" showT="true" textColor="@ID_COLOR_3" top="71" width="119" expandT="true" />
+					</layoutEleUI>
+				</layoutEleUI>
+				<layoutEleUI bkInfoM="{99:1.9.9;5:2(15)20(1)21(3)26(0)22(-11911887)23(255);98:16(0);}" height="100" itemID="2" layout.alignH="right" layout.alignV="center" layout.height="36" layout.horizon="true" layout.padding="2,2,2,2" layout.width="auto" left="504" nameT="purchase_container" padding.bottom="0" padding.left="0" padding.right="0" showT="true" top="12" width="100" expandT="true">
+					<layoutEleUI bkInfoM="{99:1.9.9;5:2(15)20(1)21(3)26(0)22(-13282242)23(255);98:16(0);}" height="100" itemID="22" layout.alignH="center" layout.alignV="center" layout.height="fill" layout.padding="0,0,2,0" layout.width="72" left="12" showT="true" top="18" width="100" expandT="true">
+						<shapeText content="{binding field=discount_pct}" font="@ID_FONT_3" height="20" layout.height="auto" layout.width="auto" left="37" showT="true" textColor="#ffa4d007" top="13" width="100" expandT="true" />
+					</layoutEleUI>
+					<layoutEleUI height="100" itemID="23" layout.alignH="right" layout.height="auto" layout.horizon="false" layout.padding="6,0,7,0" layout.width="auto" left="84" nameT="discount_prices" showT="true" top="21" width="100" expandT="false">
+						<shapeText content="{binding field=discount_original_price}" font="@ID_FONT_4" height="20" layout.height="auto" layout.width="auto" left="18" showT="true" textColor="#FF707E89" top="11" width="100" expandT="true" />
+						<shapeText content="{binding field=discount_final_price}" font="@ID_FONT_6" height="20" layout.height="auto" layout.width="auto" left="21" showT="true" textColor="#FFFFFFFF" top="27" width="100" expandT="true" />
+					</layoutEleUI>
+					<buttonUI content="{binding field=main-btn}" css.name="style_greenBtn" cursor="IDC_HAND" height="25" itemID="33" layout.height="32" layout.width="auto" left="177" showT="true" textColor="#FFD2E885" top="17" width="60" expandT="true" />
+				</layoutEleUI>
+			</layoutEleUI>
+			<layoutEleUI height="100" layout.height=":1" layout.horizon="false" layout.space="10" layout.width="fill" left="463" nameT="lower_container" showT="true" top="118" width="100" expandT="true">
+				<layoutEleUI height="100" layout.height="20" layout.width="auto" left="477" nameT="platform_icons" showT="true" top="27" width="100" expandT="true">
+					<shapePicture height="100" image="@icon_platform_win.png" itemID="51" layout.height="20" layout.width="20" left="39" showT="true" top="13" width="100" expandT="true" />
+					<shapePicture height="100" image="{binding field=platform_icon2}" itemID="52" layout.height="20" layout.width="20" left="59" showT="true" top="33" width="100" expandT="true" />
+					<shapePicture height="100" image="{binding field=platform_icon3}" itemID="53" layout.height="20" layout.width="20" left="79" showT="true" top="53" width="100" expandT="true" />
+				</layoutEleUI>
+				<layoutEleUI height="100" layout.alignH="right" layout.alignV="center" layout.height=":1" layout.space="-4" layout.width="fill" left="199" nameT="lower_columns" showT="true" top="45" width="100" expandT="true">
+					<shapeText content="{binding field=addedon}" font="@ID_FONT_6" height="20" layout.height="20" layout.width="auto" left="392" nameT="addedon" showT="true" textColor="@ID_COLOR_3" top="15" width="132" expandT="true" />
+					<textLinkUI bkInfoM="{99:1.9.9;3:2(13)3(4,1,4,0)4(@dot.png);98:1(0);}" content="remove" cursor="IDC_HAND" font="@ID_FONT_6" height="20" itemID="44" layout.width="auto" left="576" nameT="remove" showT="true" textColor="#FFB2B8BD" textColorStay="#FFD8DDE2" top="15" transparent="true" underlineLeave="false" underlineStay="false" width="52" expandT="true" />
+					<shapeText content=")" font="@ID_FONT_6" height="20" layout.height="20" layout.width="auto" left="412" nameT="addedon" showT="true" textColor="@ID_COLOR_3" top="35" width="100" expandT="true" />
+				</layoutEleUI>
+			</layoutEleUI>
+		</layoutEleUI>
+	</layoutEleUI>
+</xc_template_listBox>

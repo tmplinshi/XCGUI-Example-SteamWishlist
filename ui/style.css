@@ -1,0 +1,14 @@
+<!--炫彩界面库-样式文件-->
+<?xml version="1.0" encoding="UTF-8"?>
+<style>
+	<style_common>
+		<item bkInfoM="@ID_bkInfo_1" drawBorder="false" drawFocus="false" enableFocus="false" layout.height="32" layout.width="46" objectStyle="0" objectType="22" objectTypeEx="3" transparent="true" />
+		<item bkInfoM="@ID_bkInfo_2" objectStyle="0" objectType="22" objectTypeEx="5" />
+		<item bkInfoM="@ID_bkInfo_3" objectStyle="0" objectType="22" objectTypeEx="4" />
+	</style_common>
+	<style_class>
+		<item bkInfoM="@ID_bkInfo_4" font="@ID_FONT_5" objectType="22" padding.left="10" padding.right="9" styleName="style_greenBtn" transparent="true" />
+		<item bkInfoM="@ID_bkInfo_5" font="@ID_FONT_5" objectType="22" padding.left="10" padding.right="9" styleName="style_blueBtn" transparent="true" />
+	</style_class>
+	<style_resource />
+</style>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--炫彩界面库-窗口布局文件-->
+<head>
+	<bindJsFile value="" />
+</head>
+<windowUI bkInfoM="{99:1.9.9;5:2(15)20(1)21(3)26(0)22(-14277856)23(255);98:1(0);}" content="Steam Wishlist" dragWindow="true" enableLayout="true" height="686" layoutBottom="0" layoutLeft="0" layoutRight="0" layoutTop="0" left="20" showT="true" top="20" transparentAlpha="255" transparentFlag="shadow" width="967">
+	<layoutEleUI height="100" layout.alignH="center" layout.height="fill" layout.horizon="false" layout.padding="0,0,0,0" layout.width="fill" left="754" showT="true" top="141" width="100" expandT="true">
+		<layoutEleUI cursor="IDC_ARROW" height="80" layout.height="50" layout.width="fill" left="915" nameT="title_bar" showT="true" top="58" expandT="false">
+			<layoutEleUI height="100" layout.alignV="center" layout.height="fill" layout.padding="10,0,0,0" layout.width=":1" left="565" showT="true" top="34" width="100" expandT="true">
+				<shapeText content="Steam Wishlist" font="@ID_FONT_5" layout.height="auto" layout.width="auto" left="325" showT="true" textColor="#FFFFFFFF" top="23" width="100" expandT="true" />
+			</layoutEleUI>
+			<layoutEleUI height="100" layout.alignH="right" layout.alignV="top" layout.height="fill" layout.width="200" left="767" showT="true" top="22" width="100" expandT="true">
+				<buttonUI buttonType="min" height="25" layout.height="32" layout.width="46" left="137" showT="true" top="22" transparent="true" width="60" expandT="true" />
+				<buttonUI buttonType="max" height="25" layout.height="32" layout.width="46" left="157" showT="true" top="42" transparent="true" width="60" expandT="true" />
+				<buttonUI buttonType="close" height="25" layout.height="32" layout.width="46" left="177" showT="true" top="62" transparent="true" width="60" expandT="true" />
+			</layoutEleUI>
+		</layoutEleUI>
+		<layoutEleUI height="100" layout.alignH="center" layout.height=":1" layout.horizon="false" layout.padding="10,0,0,0" layout.width="950" left="935" nameT="page_content" showT="true" top="78" width="100" expandT="true">
+			<listBoxUI height="100" layout.height=":1" layout.width="fill" left="625" name="listbox1" showT="true" top="247" transparent="true" width="100" expandT="true">
+				<child>
+					<scrollBarUI transparent="true" childType="scrollBarV" />
+					<buttonUI bkInfoM="{sizeT:20,50;99:1.9.9;5:2(26)3(6,0,0,0)20(1)21(3)26(1)22(-11318973)23(255)9(3,3,3,3);98:16(0)32(0)64(0);}" layout.width="fill" transparent="true" childType="scrollBarV.button" />
+				</child>
+			</listBoxUI>
+		</layoutEleUI>
+	</layoutEleUI>
+</windowUI>
