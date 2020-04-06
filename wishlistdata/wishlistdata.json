@@ -1,0 +1,185 @@
+﻿{
+   "421120" : {
+      "added" : 1586146101,
+      "background" : "https://steamcdn-a.akamaihd.net/steam/apps/421120/page_bg_generated_v6b.jpg?t=1568890441",
+      "capsule" : "https://steamcdn-a.akamaihd.net/steam/apps/421120/header_292x136.jpg?t=1568890441",
+      "is_free_game" : false,
+      "mac" : 1,
+      "name" : "Samorost 3",
+      "platform_icons" : "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+      "priority" : 0,
+      "rank" : 968,
+      "release_date" : "1458835325",
+      "release_string" : "25 Mar, 2016",
+      "review_css" : "positive",
+      "review_desc" : "Very Positive",
+      "review_score" : 8,
+      "reviews_percent" : 95,
+      "reviews_total" : "1,760",
+      "screenshots" : [
+         "ss_7ea1bcecc7fe86fb923602cdc46d2d0d3d43544e.jpg",
+         "ss_31412a6232e49b4c90f7f98bb6f20eb699e7d111.jpg",
+         "ss_8af0d18541132ba1b7463e8887898c46f4e9e83c.jpg",
+         "ss_9656ec6f6dd86feeaf4b2d6b4bfbaeed551284b0.jpg"
+      ],
+      "subs" : [
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"6800\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 68</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 85849,
+            "price" : 6800
+         }
+      ],
+      "tags" : [],
+      "type" : "Game",
+      "win" : 1
+   },
+   "1046030" : {
+      "added" : 1555241897,
+      "background" : "https://steamcdn-a.akamaihd.net/steam/apps/1046030/page_bg_generated_v6b.jpg?t=1565969112",
+      "capsule" : "https://steamcdn-a.akamaihd.net/steam/apps/1046030/header_292x136.jpg?t=1565969112",
+      "is_free_game" : false,
+      "linux" : 1,
+      "mac" : 1,
+      "name" : "ISLANDERS",
+      "platform_icons" : "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+      "priority" : 124,
+      "rank" : 916,
+      "release_date" : "1554365761",
+      "release_string" : "4 Apr, 2019",
+      "review_css" : "positive",
+      "review_desc" : "Overwhelmingly Positive",
+      "review_score" : 9,
+      "reviews_percent" : 95,
+      "reviews_total" : "7,624",
+      "screenshots" : [
+         "ss_8c62b14de6d60916ff35a50000596bff79fadd71.jpg",
+         "ss_e0d7d61fffc5c216a044bc44775bf5a05252bfd9.jpg",
+         "ss_0c343e4041966c8bf1584297b7c29b3cc0af7ebb.jpg",
+         "ss_d586e1096a9fa1a790066b513286b20e671e681c.jpg"
+      ],
+      "subs" : [
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"2600\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 26</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 348647,
+            "price" : 2600
+         }
+      ],
+      "tags" : [],
+      "type" : "Game",
+      "win" : 1
+   },
+   "295790" : {
+      "added" : 1586146567,
+      "background" : "https://steamcdn-a.akamaihd.net/steam/apps/421120/page_bg_generated_v6b.jpg?t=1568890441",
+      "capsule" : "https://steamcdn-a.akamaihd.net/steam/apps/295790/header_292x136.jpg?t=1574723230",
+      "is_free_game" : false,
+      "linux" : 1,
+      "mac" : 1,
+      "name" : "Never Alone (Kisima Ingitchuna)",
+      "platform_icons" : "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span><span class=\"platform_img linux\"></span>",
+      "priority" : 0,
+      "rank" : 976,
+      "release_date" : "1416323588",
+      "release_string" : "18 Nov, 2014",
+      "review_css" : "positive",
+      "review_desc" : "Very Positive",
+      "review_score" : 8,
+      "reviews_percent" : 82,
+      "reviews_total" : "4,494",
+      "screenshots" : [
+         "ss_f676246a8b0892672efa316db5ccb713a38d9723.jpg",
+         "ss_49f4ef988db2288eb7b1c7c3b873ffaf58dd6c92.jpg",
+         "ss_fde7b7e821402f77edea513d80995a4c99fce9a7.jpg",
+         "ss_1945c2dd9c564621d8468fe1678e2c88129a3e13.jpg"
+      ],
+      "subs" : [
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"4800\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 48</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 42595,
+            "price" : 4800
+         },
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"6000\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 60</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 73534,
+            "price" : 6000
+         }
+      ],
+      "tags" : [],
+      "type" : "Game",
+      "win" : 1
+   },
+   "683320" : {
+      "added" : 1586146188,
+      "background" : "https://steamcdn-a.akamaihd.net/steam/apps/421120/page_bg_generated_v6b.jpg?t=1568890441",
+      "capsule" : "https://steamcdn-a.akamaihd.net/steam/apps/683320/header_292x136.jpg?t=1574359986",
+      "is_free_game" : false,
+      "mac" : 1,
+      "name" : "GRIS",
+      "platform_icons" : "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+      "priority" : 0,
+      "rank" : 883,
+      "release_date" : "1544709240",
+      "release_string" : "13 Dec, 2018",
+      "review_css" : "positive",
+      "review_desc" : "Overwhelmingly Positive",
+      "review_score" : 9,
+      "reviews_percent" : 97,
+      "reviews_total" : "21,433",
+      "screenshots" : [
+         "ss_4fa618f5a2141d48a05716d43598a260235b0aaa.jpg",
+         "ss_a155ad5423e11e3e764a1a270dcf4f30323f0a35.jpg",
+         "ss_62883bfa8a341db3f9c5c03768f5c14f938fe8fc.jpg",
+         "ss_9c717701f0a67af52d227f69001e1415c932ae60.jpg"
+      ],
+      "subs" : [
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"5700\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 57</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 195262,
+            "price" : 5700
+         }
+      ],
+      "tags" : [],
+      "type" : "Game",
+      "win" : 1
+   },
+   "916900" : {
+      "added" : 1586145812,
+      "background" : "https://steamcdn-a.akamaihd.net/steam/apps/1046030/page_bg_generated_v6b.jpg?t=1565969112",
+      "capsule" : "https://steamcdn-a.akamaihd.net/steam/apps/916900/header_292x136.jpg?t=1577152179",
+      "is_free_game" : false,
+      "mac" : 1,
+      "name" : "Paperbark",
+      "platform_icons" : "<span class=\"platform_img win\"></span><span class=\"platform_img mac\"></span>",
+      "priority" : 0,
+      "rank" : 989,
+      "release_date" : "1544656860",
+      "release_string" : "13 Dec, 2018",
+      "review_css" : "positive",
+      "review_desc" : "Very Positive",
+      "review_score" : 8,
+      "reviews_percent" : 92,
+      "reviews_total" : "87",
+      "screenshots" : [
+         "ss_9eaab98c5183f263a0cf566e59c90b891fe4e0f3.jpg",
+         "ss_27bf0ffe3d8b54858d3cd383ca5a1c1366d716dc.jpg",
+         "ss_e574ed131a9822b9fae781522224987bcb4c7e6b.jpg",
+         "ss_b8227b2083c81bc967d7e41241e4ec63be5f4aec.jpg"
+      ],
+      "subs" : [
+         {
+            "discount_block" : "<div class=\"discount_block discount_block_large no_discount\" data-price-final=\"3500\"><div class=\"discount_prices\"><div class=\"discount_final_price\">¥ 35</div></div></div>",
+            "discount_pct" : 0,
+            "id" : 294474,
+            "price" : 3500
+         }
+      ],
+      "tags" : [],
+      "type" : "Game",
+      "win" : 1
+   }
+}
