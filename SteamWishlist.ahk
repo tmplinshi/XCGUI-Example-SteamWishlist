@@ -87,7 +87,7 @@ InitListBox_LoadData() {
 		}
 	}
 
-	xc.XListBox_Sort(hListBox, iColumnAdapter_price, true)
+	; xc.XListBox_Sort(hListBox, iColumnAdapter_price, true)
 }
 
 Uppercase(str) {
